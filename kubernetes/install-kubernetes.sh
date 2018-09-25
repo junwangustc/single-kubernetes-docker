@@ -9,7 +9,7 @@ update-ca-certificates
 cd /tmp
 
 # Download the release file of Kubernetes 1.0.7
-wget https://github.com/kubernetes/kubernetes/releases/download/v1.0.7/kubernetes.tar.gz
+wget https://xxx/kubernetes.tar.gz
 
 tar -xzvf kubernetes.tar.gz
 
